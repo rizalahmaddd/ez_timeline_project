@@ -2,6 +2,12 @@
 
 Sebuah aplikasi manajemen timeline proyek yang modern dan intuitif, dibangun dengan React, TypeScript, dan Firebase. Aplikasi ini memungkinkan pengguna untuk membuat, mengelola, dan berbagi timeline proyek dengan fitur AI terintegrasi.
 
+## 🌐 Demo Live
+
+**[🚀 Coba Aplikasi Sekarang](https://timeline.ciptaprogram.com/)**
+
+Akses langsung ke aplikasi EZ Timeline Project yang sudah di-deploy. Anda bisa mencoba semua fitur secara langsung tanpa perlu instalasi lokal.
+
 ## 🚀 Fitur Utama
 
 ### 📊 Manajemen Timeline
